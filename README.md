@@ -52,4 +52,4 @@ The goal of this project is to analyze the relationship between market sentiment
 
 ## Author
 **Antra Chauhan**  
-**Date:** Jan 2026
+**Date:** 28 Jan 2026
